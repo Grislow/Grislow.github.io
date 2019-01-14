@@ -68,7 +68,7 @@ body {
 }
 
 .heading__secondary {
-	color: #0097e6;
+	color: #0081c4;
 	font-size: 3.2rem;
 	font-weight: bold;
 	margin: 1rem 0;
@@ -84,7 +84,7 @@ body {
 }
 
 .heading__tertiary {
-	color: #0097e6;
+	color: #0081c4;
 	font-size: 2.5rem;
 	font-weight: bold;
 	margin: 0;
@@ -170,7 +170,7 @@ body {
 	position: absolute;
 	width: 110%;
 	height: 2px;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	top: 20%;
 	left: 0;
 	display: block;
@@ -181,7 +181,7 @@ body {
 	position: absolute;
 	width: 110%;
 	height: 2px;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	top: 54%;
 	left: 0;
 	display: block;
@@ -189,7 +189,7 @@ body {
 
 .heading__container {
 	margin-bottom: 1rem;
-	border: 2px solid #0097e6;
+	border: 2px solid #0081c4;
 	width: 42rem;
 	padding: 1.5rem;
 	display: inline-block;
@@ -218,7 +218,7 @@ body {
 }
 
 .links__container {
-	border: 2px solid #0097e6;
+	border: 2px solid #0081c4;
 	width: 42rem;
 	padding: 1.5rem;
 	border-radius: 1rem;
@@ -253,7 +253,7 @@ body {
 	position: absolute;
 	width: 2px;
 	height: 4.3rem;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	bottom: -4.3rem;
 	left: 50%;
 	transform: translateX(-50%);
@@ -317,7 +317,7 @@ body {
 
 .links__anchor:hover,
 .links__anchor:active {
-	color: #0097e6;
+	color: #0081c4;
 }
 
 .photo__container {
@@ -325,7 +325,7 @@ body {
 	height: 22rem;
 	width: 22rem;
 	display: block; 
-	border: 2px solid #0097e6;
+	border: 2px solid #0081c4;
 	position: relative;
 	z-index: 10;
 }
@@ -356,7 +356,7 @@ body {
 	width: 2px;
 	height: 22.4rem;
 	position: absolute;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	top: 50%;
 	right: -8rem;
 }
@@ -367,7 +367,7 @@ body {
 	width: 8rem;
 	height: 2px;
 	position: absolute;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	top: 50%;
 	right: -8rem;
 }
@@ -415,12 +415,12 @@ body {
 .container__left::before {
 	content: '';
 	display: block;
-	height: 80rem;
-	background-color: #0097e6;
+	height: 80.1rem;
+	background-color: #0081c4;
 	width: 2px;
 	position: absolute;
 	left: 2px;
-	top: 4.6rem;
+	top: 4.5rem;
 }
 
 @media only screen and (max-width: 56.25em) {
@@ -446,7 +446,7 @@ body {
 }
 
 .container__right--top {
-	border: 2px solid #0097e6;
+	border: 2px solid #0081c4;
 	border-radius: 1rem;
 	background-color: #fff;
 	display: block;
@@ -474,7 +474,7 @@ body {
 }
 
 .header__experience {
-	border: 2px solid #0097e6;
+	border: 2px solid #0081c4;
 	border-radius: 1rem;
 	padding: 1.5rem;
 	display: flex;
@@ -504,7 +504,7 @@ body {
 	content: '';
 	display: block;
 	height: 2px;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	width: 8rem;
 	position: absolute;
 	left: -8rem;
@@ -520,7 +520,7 @@ body {
 
 .experience__wrapper {
 	margin-left: 5rem;
-	border: 2px solid #0097e6;
+	border: 2px solid #0081c4;
 	border-radius: 1rem;
 	padding: 1.5rem 1rem 1.5rem 1.5rem;
 	position: relative;
@@ -540,7 +540,7 @@ body {
 	content: '';
 	display: block;
 	height: 2px;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	width: 5rem;
 	position: absolute;
 	left: -5rem;
@@ -573,7 +573,7 @@ body {
 	font-size: 2rem;
 	margin: .6rem 0 0;
 	font-weight: 700;
-	color: #0097e6;
+	color: #0081c4;
 }
 
 .experience__date {
@@ -641,7 +641,7 @@ body {
 	content: '';
 	display: block;
 	height: 2px;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	width: 7.8rem;
 	position: absolute;
 	left: -7.8rem;
@@ -652,7 +652,7 @@ body {
 	content: '';
 	display: block;
 	height: 70rem;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	width: 2px;
 	position: absolute;
 	left: -7.8rem;
@@ -682,7 +682,7 @@ body {
 	content: '';
 	display: block;
 	height: 2px;
-	background-color: #0097e6;
+	background-color: #0081c4;
 	width: 100%;
 	position: absolute;
 	left: 0;
@@ -690,7 +690,7 @@ body {
 }
 
 .skills__right {
-	border: 2px solid #0097e6;
+	border: 2px solid #0081c4;
 	background-color: #fff;
 	width: 50%;
 	border-radius: 1rem;
@@ -710,10 +710,10 @@ body {
 }
 
 .skills__header {
-	color: #0097e6;
+	color: #0081c4;
 	border-radius: 1rem;
 	padding: 1.5rem;
-	border: 2px solid #0097e6;
+	border: 2px solid #0081c4;
 	background-color: #fff;
 	display: flex;
 	justify-content: center;
@@ -772,16 +772,16 @@ body {
 .header__education {
 	width: 100%;
 	text-align: center;
-	border-bottom: 2px solid #0097e6;
+	border-bottom: 2px solid #0081c4;
 	padding: 1rem 0;
 }
 
 @media only screen and (max-width: 56.25em) {
 	.header__education {
-		color: #0097e6;
+		color: #0081c4;
 		border-radius: 1rem;
 		padding: 1.5rem;
-		border: 2px solid #0097e6;
+		border: 2px solid #0081c4;
 		background-color: #fff;
 		width: auto;
 	}
@@ -794,7 +794,7 @@ body {
 	.likes__wrapper {
 		border-radius: 1rem;
 		padding: 1.5rem;
-		border: 2px solid #0097e6;
+		border: 2px solid #0081c4;
 		background-color: #fff;
 		margin-top: 3rem;
 	}
@@ -830,7 +830,7 @@ body {
 	font-size: 2rem;
 	margin: 1rem 0 0;
 	font-weight: 700;
-	color: #0097e6;
+	color: #0081c4;
 }
 
 .education__date {
@@ -844,8 +844,8 @@ body {
 .header__like {
 	width: 100%;
 	text-align: center;
-	border-bottom: 2px solid #0097e6;
-	border-top: 2px solid #0097e6;
+	border-bottom: 2px solid #0081c4;
+	border-top: 2px solid #0081c4;
 	padding: 1rem 0;
 	margin-top: 2rem;
 }
@@ -854,10 +854,10 @@ body {
 	.header__volunteering,
 	.header__languages,
 	.header__like {
-		color: #0097e6;
+		color: #0081c4;
 		border-radius: 1rem;
 		padding: 1.5rem;
-		border: 2px solid #0097e6;
+		border: 2px solid #0081c4;
 		background-color: #fff;
 		width: auto;
 	}
@@ -910,7 +910,7 @@ body {
 
 .language__stars {
 	display: flex;
-	color: #0097e6;
+	color: #0081c4;
 }
 
 .fa-star {
@@ -962,7 +962,7 @@ body {
 	margin-top: 5rem;
 	border-radius: 1rem;
 	padding: 1rem;
-	border: 2px solid #0097e6;
+	border: 2px solid #0081c4;
 	background-color: #fff;
 	font-style: italic;
 	line-height: 1.5;
