@@ -437,7 +437,7 @@ body {
 }
 
 .container__left {
-	width: 50%;
+	width: 55%;
 	position: relative;
 	-ms-flex-item-align: start;
 	    align-self: flex-start;
@@ -462,7 +462,7 @@ body {
 .container__left::before {
 	content: '';
 	display: block;
-	height: 80.1rem;
+	height: 100rem;
 	background-color: #0081c4;
 	width: 2px;
 	position: absolute;
@@ -585,7 +585,7 @@ body {
 	margin-left: 5rem;
 	border: 2px solid #0081c4;
 	border-radius: 1rem;
-	padding: 1.5rem 1rem 1.5rem 1.5rem;
+	padding: 1.5rem 1rem 1rem 1.5rem;
 	position: relative;
 	width: 100%;
 	margin-top: 3rem;
@@ -683,9 +683,18 @@ body {
 	        align-items: flex-start;
 }
 
+.experience__item:last-child {
+
+}
+
 .fa-chevron-circle-right {
 	margin-right: 1rem;
 	margin-top: .7rem;
+}
+
+.fa-layer-group {
+	margin-right: 1rem;
+	margin-top: .6rem;
 }
 
 .skills__container {
@@ -737,12 +746,12 @@ body {
 .skills__left::after {
 	content: '';
 	display: block;
-	height: 70rem;
+	height: 90rem;
 	background-color: #0081c4;
 	width: 2px;
 	position: absolute;
 	left: -7.8rem;
-	top: calc(50% - 70rem);
+	top: calc(50% - 90rem);
 }
 
 
@@ -780,14 +789,16 @@ body {
 .skills__right {
 	border: 2px solid #0081c4;
 	background-color: #fff;
-	width: 50%;
+	width: 55%;
 	border-radius: 1rem;
 	padding: 0 1.5rem;
+	margin-right: 3rem;
+	text-align: center;
 }
 
 @media only screen and (max-width: 56.25em) {
 	.skills__right {
-		text-align: center;
+		margin-right: 0rem;
 	}
 }
 
@@ -1114,6 +1125,7 @@ body {
 }
 
 .pdf__link::after {
+	background-color: #0081c4;
 	content: '';
 	display: block;
 	position: absolute;
@@ -1121,16 +1133,15 @@ body {
 	left: -6.2rem;
 	width: 6rem;
 	height: 2px;
-	background-color: #0081c4;
 }
 
 .pdf__link:hover .pdf__icon,
-.pdf__link:active .pdf__icon{
+.pdf__link:active .pdf__icon {
 	opacity: 0;
 }
 
 .pdf__link:hover .pdf__text,
-.pdf__link:active .pdf__text{
+.pdf__link:active .pdf__text {
 	opacity: 1;
 }
 
