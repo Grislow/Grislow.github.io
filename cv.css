@@ -792,15 +792,14 @@ body {
 	width: 55%;
 	border-radius: 1rem;
 	padding: 0 1.5rem;
-	margin-right: 3rem;
 	text-align: center;
 }
 
-@media only screen and (max-width: 56.25em) {
+/* @media only screen and (max-width: 56.25em) {
 	.skills__right {
 		margin-right: 0rem;
 	}
-}
+} */
 
 @media only screen and (max-width: 37.5em) {
 	.skills__right {
